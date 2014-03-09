@@ -1,0 +1,5 @@
+[user]
+	name = Andrew Akers
+	email = andrew@akrs.me
+[core]
+	excludesfile = /home/andrew.akers/.gitignore_global
